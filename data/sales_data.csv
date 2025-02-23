@@ -1,0 +1,13 @@
+product,sales,category,price,customer_segment
+Product A,500,Electronics,199.99,Premium
+Product B,300,Clothing,49.99,Budget
+Product C,700,Electronics,299.99,Premium
+Product D,200,Clothing,39.99,Mid-range
+Product E,450,Home,79.99,Mid-range
+Product F,600,Electronics,149.99,Budget
+Product G,350,Beauty,29.99,Budget
+Product H,800,Furniture,499.99,Premium
+Product I,400,Home,59.99,Mid-range
+Product J,250,Sports,89.99,Mid-range
+Product K,550,Beauty,19.99,Budget
+Product L,900,Furniture,699.99,Premium
