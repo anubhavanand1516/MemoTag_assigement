@@ -64,7 +64,7 @@ ls data/
 
 ### **Step 5: Run the Flask App**
 ```bash
-python run.py
+python main.py
 ```
 
 ### **Step 6: Access API Endpoints**
