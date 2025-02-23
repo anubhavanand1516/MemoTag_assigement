@@ -81,27 +81,32 @@ python run.py
 ### **1⃣ Home (`/`)**
 - **Method:** `GET`
 - **Response:**
-```json
-{
-    "message": "Welcome to Memotag Flask API"
-}
-```
+<img width="1440" alt="Screenshot 2025-02-23 at 2 01 22 PM" src="https://github.com/user-attachments/assets/5046c339-5388-4f56-8737-342af90f8b5c" />
+
 
 ### **2⃣ Sales Recommendations (`/sales_recommendations`)**
 - **Method:** `GET`
 - **Response:** 10 unique sales recommendations based on data.
+<img width="1439" alt="Screenshot 2025-02-23 at 2 01 59 PM" src="https://github.com/user-attachments/assets/2a61eee5-a47b-41a7-80fe-cb36dce5e6b9" />
+
 
 ### **3⃣ Sales Strategies (`/sales_strategies`)**
 - **Method:** `GET`
 - **Response:** 3 unique sales strategies.
+<img width="1438" alt="Screenshot 2025-02-23 at 2 02 31 PM" src="https://github.com/user-attachments/assets/5d5df54c-f6fc-4a21-b3d1-b1733c0c41de" />
+
 
 ### **4⃣ Marketing Funnels (`/marketing_funnels`)**
 - **Method:** `GET`
 - **Response:** 5 marketing funnels.
+<img width="1440" alt="Screenshot 2025-02-23 at 2 03 00 PM" src="https://github.com/user-attachments/assets/05fca6ad-c844-4633-9693-404f4de13d86" />
+
 
 ### **5⃣ Sales Data (`/sales_data`)**
 - **Method:** `GET`
 - **Response:** Raw sales data in JSON format.
+<img width="1440" alt="Screenshot 2025-02-23 at 2 03 40 PM" src="https://github.com/user-attachments/assets/32771754-4ed8-4a6c-96fa-a21e1da1b6ab" />
+
 
 ## 📌 Summary
 | Endpoint | Description |
